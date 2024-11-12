@@ -9,7 +9,7 @@ Welcome to the Electric Vehicle Analysis Dashboard repository! This project show
 
 **Total Vehicle Distribution**
 
-*View the total number of electric vehicles (EVs) by type (BEV and PHEV)
+* View the total number of electric vehicles (EVs) by type (BEV and PHEV)
 
 *Analyze the breakdown of vehicles by model year
 
