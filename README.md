@@ -11,43 +11,43 @@ Welcome to the Electric Vehicle Analysis Dashboard repository! This project show
 
 * View the total number of electric vehicles (EVs) by type (BEV and PHEV)
 
-*Analyze the breakdown of vehicles by model year
+* Analyze the breakdown of vehicles by model year
 
-*Explore vehicle distribution by state
+* Explore vehicle distribution by state
 
 **Vehicle Make Breakdown**
 
-*Detailed insights into the leading electric vehicle manufacturers (e.g., Tesla, Nissan, Chevrolet)
+* Detailed insights into the leading electric vehicle manufacturers (e.g., Tesla, Nissan, Chevrolet)
 
-*Analyze the percentage share of each manufacturer in the EV market
+* Analyze the percentage share of each manufacturer in the EV market
 
 
 **CAFV Eligibility**
 
-*Visualize the distribution of vehicles eligible for Clean Alternative Fuel Vehicle (CAFV) programs
+* Visualize the distribution of vehicles eligible for Clean Alternative Fuel Vehicle (CAFV) programs
 
-*Compare the eligibility status (eligible vs non-eligible) for various vehicle makes
+* Compare the eligibility status (eligible vs non-eligible) for various vehicle makes
 
 
 **Model Analysis**
 
-*Explore the most popular electric vehicle models (e.g., Tesla Model Y, Chevrolet Bolt EV)
+* Explore the most popular electric vehicle models (e.g., Tesla Model Y, Chevrolet Bolt EV)
 
-*View vehicle distribution by model for better market insights
+* View vehicle distribution by model for better market insights
 
 
 **Key Metrics**
 
-*Total vehicles, average electric range, and percentage breakdowns by BEV and PHEV
+* Total vehicles, average electric range, and percentage breakdowns by BEV and PHEV
 
-*Visual insights for actionable trends in the electric vehicle market
+* Visual insights for actionable trends in the electric vehicle market
 
 
 **Skills Mastered**
 
-*Effective data visualization techniques using Power BI
+* Effective data visualization techniques using Power BI
 
-*Analyzing and segmenting data based on key vehicle metrics
+* Analyzing and segmenting data based on key vehicle metrics
 
 *Leveraging Power BI filters and slicers for detailed analysis
 
