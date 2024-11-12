@@ -49,8 +49,8 @@ Welcome to the Electric Vehicle Analysis Dashboard repository! This project show
 
 * Analyzing and segmenting data based on key vehicle metrics
 
-*Leveraging Power BI filters and slicers for detailed analysis
+* Leveraging Power BI filters and slicers for detailed analysis
 
-*Utilizing Power BI’s dynamic visuals and conditional formatting
+* Utilizing Power BI’s dynamic visuals and conditional formatting
 
-*Designing intuitive, user-friendly dashboards for clear data storytelling
+* Designing intuitive, user-friendly dashboards for clear data storytelling
